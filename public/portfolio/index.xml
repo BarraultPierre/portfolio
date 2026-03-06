@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My First Post on **Barrault Pierre**</title>
+    <link>//localhost:1313/portfolio/</link>
+    <description>Recent content in My First Post on **Barrault Pierre**</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <lastBuildDate>Sun, 28 Feb 2021 16:15:43 +0100</lastBuildDate><atom:link href="//localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Insadium</title>
+      <link>//localhost:1313/portfolio/insadium/</link>
+      <pubDate>Sun, 28 Feb 2021 16:15:43 +0100</pubDate>
+      
+      <guid>//localhost:1313/portfolio/insadium/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/portfolio/insadium/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
