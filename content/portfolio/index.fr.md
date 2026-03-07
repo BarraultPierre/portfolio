@@ -1,6 +1,6 @@
 +++
 date = '2026-02-28T16:15:43+01:00'
-draft = true
+draft = false
 title = 'Portfolio'
 showTableOfContents = true
 description = 'portfolio, composition musicale, Purple Pain, musiques de jeu vidéo, bandes originales, expérimentations électroniques, Explorez, jazz, la techno, l’ambient, SACEM'
