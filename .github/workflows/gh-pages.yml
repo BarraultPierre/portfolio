@@ -25,7 +25,7 @@ jobs:
           hugo-version: "latest"
 
       - name: Build
-        run: hugo --minify --baseURL="https://barraultpierre.github.io/portfolio/"
+        run: hugo --minify --baseURL="https://barraultpierre.github.io/portfolio/" --cleanDestinationDir
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
