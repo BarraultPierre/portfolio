@@ -85,4 +85,4 @@ Here is a selection of projects showcasing the diversity of my work.
 
 **Explorer22**  
 *Ambient space inspired track.*
-{{< audio src="/audio/Explorer22.wav">}}
+{{< audio src="/audio/Explorer22.mp3">}}

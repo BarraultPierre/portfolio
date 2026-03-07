@@ -96,4 +96,4 @@ Voici une sélection de projets qui illustrent la diversité de mon travail.
 
 **Explorer22**  
 *Ambient inspirée par l'espace*
-{{< audio src="/audio/Explorer22.wav" >}}
+{{< audio src="/audio/Explorer22.mp3" >}}
