@@ -3,35 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/portfolio/about/</loc>
     <lastmod>2026-02-28T16:15:43+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/about/"
+      href="http://localhost:1313/portfolio/fr/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/about/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-28T16:15:43+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="http://localhost:1313/fr/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/"
+      href="http://localhost:1313/portfolio/about/"
     />
   </url>
   <url>
@@ -42,7 +26,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/portfolio/"
+      href="http://localhost:1313/portfolio/fr/"
     />
     <xhtml:link
       rel="alternate"
@@ -51,19 +35,35 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/portfolio/portfolio/</loc>
+    <lastmod>2026-02-28T16:15:43+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/portfolio/fr/portfolio/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/portfolio/portfolio/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/contact/</loc>
     <lastmod>2021-02-28T16:15:43+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/contact/"
+      href="http://localhost:1313/portfolio/fr/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/contact/"
+      href="http://localhost:1313/portfolio/contact/"
     />
   </url>
 </urlset>
