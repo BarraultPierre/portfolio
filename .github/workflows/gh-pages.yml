@@ -1,4 +1,4 @@
-# .github/workflows/gh-pages.yaml
+# .github/workflows/gh-pages.yml
 
 name: GitHub Pages
 
@@ -25,7 +25,7 @@ jobs:
           hugo-version: "latest"
 
       - name: Build
-        run: hugo --minify --baseURL="https://barraultpierre.github.io/portfolio/" --cleanDestinationDir
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
