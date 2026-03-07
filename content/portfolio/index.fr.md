@@ -38,8 +38,8 @@ en cherchant à fusionner la légèreté de l’univers Pangya avec l’énergie
 Ce projet est une composition originale pour un extrait initialement sans musique du film *Les Yeux sans Visage* de Georges Franju. 
 Pour renforcer l’atmosphère oppressante du film, j’ai puisé mon inspiration dans les travaux de Steve Reich et sa polyrythmie, afin de créer un espace sonore déroutant et hypnotique, ainsi que dans ceux de Bernard Herrmann, notamment son utilisation de l’intervalle de 7ème majeure, particulièrement efficace pour maintenir une tension constante. J’ai également dû respecter des contraintes techniques et artistiques précises : intégrer le leitmotiv préexistant du film dans ma composition, me limiter à un orchestre réduit et à l’orgue Hammond pour coller à l’esthétique des années 1960, et enfin, travailler le sound design pour vieillir artificiellement les enregistrements, en y ajoutant des saturations et des bruits analogiques caractéristiques de l’époque.
 {{< video
-    src="\video\lesyeuxsansvisage.webm"
-    poster="\img\lesyeuxsansvisage.webp"
+    src="/video/lesyeuxsansvisage.webm"
+    poster="/img/lesyeuxsansvisage.webp"
     loop=false
     muted=false
     caption="De 3:32 à 4:44 : musique originale du film."
@@ -66,7 +66,7 @@ mentor dans l'initiation de petit frère a un thème proche de celui-ci etc...
 Enfin je me suis inspiré de Steve Reich, qui est un pilier dans la culture musicale électronique. J'y fais plusieurs fois mention en employant la polyrythmie.
 Ce procédé me permet de maintenir la tension et de lier différentes scènes.
   
-{{< audio src="\audio\LiseTerreNuit.mp3" >}}
+{{< audio src="/audio/LiseTerreNuit.mp3" >}}
 ### Insadium (2022)
 Insadium est une série de 7 portraits introspectifs. J’ai composé une bande-son qui accompagne la narration énigmatique et douloureuse de ces œuvres.
 La musique évolue avec les portraits, alternant entre des moments de calme et des crescendos de tension, pour en souligner les contrastes émotionnels.
@@ -96,4 +96,4 @@ Voici une sélection de projets qui illustrent la diversité de mon travail.
 
 **Explorer22**  
 *Ambient inspirée par l'espace*
-{{< audio src="\audio\Explorer22.wav" >}}
+{{< audio src="/audio/Explorer22.wav" >}}

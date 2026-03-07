@@ -36,8 +36,8 @@ This led me to experiment with the *Roland SC-88* and the *Zero-G Datafiles* sam
 This project is an original score for a scene from Georges Franju’s *Eyes Without a Face* that was originally silent. 
 To amplify the film’s unsettling atmosphere, I drew inspiration from Steve Reich’s polyrhythms, creating a disorienting yet hypnotic soundscape, as well as Bernard Herrmann’s signature use of the major seventh interval, a powerful tool for building relentless tension. I also worked within specific artistic and technical constraints: weaving the film’s existing leitmotif into my composition, limiting instrumentation to a small ensemble and the Hammond organ to stay true to the 1960s sound, and carefully crafting the sound design to artificially age the recordings—adding analog warmth and saturation to match the era’s sonic texture.
 {{< video
-    src="\video\lesyeuxsansvisage.webm"
-    poster="\img\lesyeuxsansvisage.webp"
+    src="/video/lesyeuxsansvisage.webm"
+    poster="/img/lesyeuxsansvisage.webp"
     loop=false
     muted=false
     caption="From 3:32 to 4:44: original film score."
@@ -55,7 +55,7 @@ For the pure composition, I was inspired by Prokofiev. I associated themes and s
 
 Finally, I drew inspiration from Steve Reich, who is a pillar in electronic music culture. I mention him several times by using polyrhythms. This technique allows me to maintain tension and connect different scenes.
   
-{{< audio src="\audio\LiseTerreNuit.mp3" >}}
+{{< audio src="/audio/LiseTerreNuit.mp3" >}}
 ### Insadium (2022)
 Insadium is a series of 7 introspective portraits. I composed a soundtrack that accompanies the enigmatic and painful narration of these works.
 The music evolves with the portraits, alternating between moments of calm and tension, to highlight their emotional contrasts.
@@ -85,4 +85,4 @@ Here is a selection of projects showcasing the diversity of my work.
 
 **Explorer22**  
 *Ambient space inspired track.*
-{{< audio src="\audio\Explorer22.wav">}}
+{{< audio src="/audio/Explorer22.wav">}}
