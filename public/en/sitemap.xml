@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-02-28T16:15:43+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/about/"
+      href="http://localhost:1313/fr/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/about/"
+      href="http://localhost:1313/about/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-28T16:15:43+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/"
+      href="http://localhost:1313/fr/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/"
+      href="http://localhost:1313/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2026-02-28T16:15:43+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/portfolio/"
+      href="http://localhost:1313/fr/portfolio/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/portfolio/"
+      href="http://localhost:1313/portfolio/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2021-02-28T16:15:43+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/contact/"
+      href="http://localhost:1313/fr/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/contact/"
+      href="http://localhost:1313/contact/"
     />
   </url>
 </urlset>
