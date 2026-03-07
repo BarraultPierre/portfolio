@@ -17,20 +17,20 @@
 
 [[main]]
   name = "Portfolio"
-# pageRef = "portfolio"
-  url = "/portfolio/"
+  pageRef = "portfolio"
+# url = "/portfolio/"
   weight = 10
 
 [[main]]
   name = "About"
-# pageRef = "about"
-  url = "/about/" 
+  pageRef = "about"
+# url = "/about/" 
   weight = 11
 
 [[main]]
   name = "Contact"
-# pageRef = "contact"
-  url = "/contact/" 
+  pageRef = "contact"
+# url = "/contact/" 
   weight = 12
 
 #[[main]]
