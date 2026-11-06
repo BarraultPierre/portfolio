@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://barraultpierre.github.io/portfolio/sitemap.xml
