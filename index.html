@@ -431,7 +431,7 @@
   @keyframes pulse { 50% { opacity: 0.55; transform: scale(0.85); } }
   @keyframes blink { 50% { opacity: 0.35; } }
   .spin { animation: spin 0.9s linear infinite; }
-  @keyframes spin { to { transform: rotate(360deg); } }
+  @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
 
   /* ─────────────── Poster placeholder art ─────────────── */
   .poster-art { position: absolute; inset: 0; overflow: hidden; }
